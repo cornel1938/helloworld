@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "dialogue": [
+            {
+                "speaker": "Juan",
+                "text": "Hola, ¿cómo estás?"
+            },
+            {
+                "speaker": "Maria",
+                "text": "Estoy bien, gracias. ¿Y tú?"
+            }
+        ],
+        "context": "A casual greeting between friends.",
+        "translation": [
+            {
+                "speaker": "Juan",
+                "text": "Hello, how are you?"
+            },
+            {
+                "speaker": "Maria",
+                "text": "I'm fine, thank you. And you?"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "dialogue": [
+            {
+                "speaker": "Carlos",
+                "text": "¿Qué te gusta hacer en tu tiempo libre?"
+            },
+            {
+                "speaker": "Ana",
+                "text": "Me gusta leer y escuchar música."
+            }
+        ],
+        "context": "Discussing hobbies.",
+        "translation": [
+            {
+                "speaker": "Carlos",
+                "text": "What do you like to do in your free time?"
+            },
+            {
+                "speaker": "Ana",
+                "text": "I like to read and listen to music."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "dialogue": [
+            {
+                "speaker": "Luis",
+                "text": "¿Dónde está la estación de tren?"
+            },
+            {
+                "speaker": "Sofía",
+                "text": "Está a la derecha, cerca del parque."
+            }
+        ],
+        "context": "Asking for directions.",
+        "translation": [
+            {
+                "speaker": "Luis",
+                "text": "Where is the train station?"
+            },
+            {
+                "speaker": "Sofía",
+                "text": "It's on the right, near the park."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "dialogue": [
+            {
+                "speaker": "Pedro",
+                "text": "¿Qué hora es?"
+            },
+            {
+                "speaker": "Clara",
+                "text": "Son las tres y media."
+            }
+        ],
+        "context": "Inquiring about the time.",
+        "translation": [
+            {
+                "speaker": "Pedro",
+                "text": "What time is it?"
+            },
+            {
+                "speaker": "Clara",
+                "text": "It's three thirty."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "dialogue": [
+            {
+                "speaker": "Elena",
+                "text": "¿Te gustaría ir al cine esta noche?"
+            },
+            {
+                "speaker": "Miguel",
+                "text": "Sí, me encantaría."
+            }
+        ],
+        "context": "Making plans to go out.",
+        "translation": [
+            {
+                "speaker": "Elena",
+                "text": "Would you like to go to the movies tonight?"
+            },
+            {
+                "speaker": "Miguel",
+                "text": "Yes, I would love to."
+            }
+        ]
+    }
+]
